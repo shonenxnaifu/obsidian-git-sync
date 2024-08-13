@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "1d38deca3500a918",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0482b7b879d993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d568a1c3b7c9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c9f11064fff8c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "8971f92195898777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc058b1ba86b3c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fcbf037f9ae5a3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b25202c0590a59b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5635a9538b234b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8eaf5bf874d1fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2bd9f4bd351fb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Website.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "967c9157f84f44e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal Website.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c88d1146dc8d6f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d017035adc4a5a27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Website.md"
+              }
+            }
+          },
+          {
+            "id": "54aec30432cf1f2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "16d568a1c3b7c9cb",
+  "lastOpenFiles": [
+    "Personal Website.md",
+    "Mind Map Personal Web.png",
+    "Pasted image 20240813183745.png",
+    "Pasted image 20240813183805.png",
+    "Pasted image 20240813183716.png"
+  ]
+}
