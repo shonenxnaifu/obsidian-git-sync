@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "This is Just for Testing Integration between Obsidian and Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "This is Just for Testing Integration between Obsidian and Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "This is Just for Testing Integration between Obsidian and Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "This is Just for Testing Integration between Obsidian and Git.md"
               }
             }
           },
@@ -156,7 +156,7 @@
   },
   "active": "b8f3854165ad0aa9",
   "lastOpenFiles": [
-    "create a link.md",
-    "Welcome.md"
+    "This is Just for Testing Integration between Obsidian and Git.md",
+    "create a link.md"
   ]
 }
