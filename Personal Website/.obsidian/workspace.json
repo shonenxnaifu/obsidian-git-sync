@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0482b7b879d993",
+        "id": "78a51d6b7df7aaa9",
         "type": "tabs",
         "children": [
           {
-            "id": "16d568a1c3b7c9cb",
+            "id": "bb06b56a3fd138e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Personal Website.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54aec30432cf1f2b",
+  "active": "bb06b56a3fd138e1",
   "lastOpenFiles": [
     "Personal Website.md",
     "Mind Map Personal Web.png",
