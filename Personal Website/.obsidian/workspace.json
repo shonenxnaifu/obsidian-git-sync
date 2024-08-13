@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personal Website.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -136,6 +136,14 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "5aba4e06cb294e60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -155,7 +163,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16d568a1c3b7c9cb",
+  "active": "54aec30432cf1f2b",
   "lastOpenFiles": [
     "Personal Website.md",
     "Mind Map Personal Web.png",
