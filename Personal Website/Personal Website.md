@@ -1,4 +1,3 @@
-edited 
 - Content List
 	- Home
 		- About
