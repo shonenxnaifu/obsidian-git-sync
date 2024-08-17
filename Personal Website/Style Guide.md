@@ -1,12 +1,4 @@
-- Content List
-	- Home
-		- About
-		- Experiences: <span style="color: aqua">track records of project and company</span>
-		- Resume: <span style="color: aqua">PDF File</span>
-		- Skills
-	- Blog
-	- Contact
-![[Mind Map Personal Web.png]]
+
 ### Fonts
 - https://fonts.google.com/specimen/Press+Start+2P?query=press
 - https://fonts.google.com/specimen/IBM+Plex+Mono?query=ibm+plex+mono

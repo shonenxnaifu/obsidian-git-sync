@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb06b56a3fd138e1",
+            "id": "71dc53b80895855b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Website.md",
+                "file": "Site Map.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abce0e8b35e3ccf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Style Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Website.md",
+                "file": "Site Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Website.md",
+                "file": "Site Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Website.md"
+                "file": "Site Map.md"
               }
             }
           },
@@ -163,12 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb06b56a3fd138e1",
+  "active": "71dc53b80895855b",
   "lastOpenFiles": [
-    "Personal Website.md",
+    "Style Guide.md",
+    "Site Map.md",
+    "Pasted image 20240817182339.png",
+    "Pasted image 20240817182313.png",
+    "Pasted image 20240817182214.png",
+    "Pasted image 20240817182130.png",
+    "Pasted image 20240817182248.png",
+    "Pasted image 20240817181853.png",
+    "Pasted image 20240817182016.png",
     "Mind Map Personal Web.png",
     "Pasted image 20240813183745.png",
-    "Pasted image 20240813183805.png",
-    "Pasted image 20240813183716.png"
+    "Pasted image 20240813183805.png"
   ]
 }
