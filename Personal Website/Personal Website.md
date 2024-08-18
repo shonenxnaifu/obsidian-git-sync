@@ -35,6 +35,9 @@
 		<br>
 		5DC999
 		<div style="background:#5DC999; height: 50px;  width: 100px"></div>
+		<br>
+		DFE0E2
+		<div style="background:#DFE0E2; height: 50px;  width: 100px"></div>
 	</div>
 	<div>
 		303030
