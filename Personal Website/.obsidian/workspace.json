@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb06b56a3fd138e1",
+            "id": "87c700ed27b019fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Website.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Website.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Website.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Website.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,9 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb06b56a3fd138e1",
+  "active": "87c700ed27b019fe",
   "lastOpenFiles": [
+    "Style Guide.md",
+    "Site Map.md",
+    "Pasted image 20240817182339.png",
     "Personal Website.md",
+    "conflict-files-obsidian-git.md",
     "Mind Map Personal Web.png",
     "Pasted image 20240813183745.png",
     "Pasted image 20240813183805.png",
