@@ -2,6 +2,7 @@
 ### Fonts
 - https://fonts.google.com/specimen/Press+Start+2P?query=press
 - https://fonts.google.com/specimen/IBM+Plex+Mono?query=ibm+plex+mono
+- lorem
 
 
 ### Color Styles
