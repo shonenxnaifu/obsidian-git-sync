@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b229e68dd3a98597",
+        "id": "af61af128adfc11c",
         "type": "tabs",
         "children": [
           {
-            "id": "aae37c6e7a521065",
+            "id": "e1a81ad47eb88610",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aae37c6e7a521065",
+  "active": "e1a81ad47eb88610",
   "lastOpenFiles": [
-    "Style Guide.md",
     "Site Map.md",
+    "Style Guide.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240817182339.png",
     "Personal Website.md",
