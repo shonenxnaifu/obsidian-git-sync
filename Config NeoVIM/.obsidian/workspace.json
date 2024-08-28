@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lorem.md",
+                "file": "Configure Lazyvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lorem.md",
+                "file": "Configure Lazyvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lorem.md",
+                "file": "Configure Lazyvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lorem.md"
+                "file": "Configure Lazyvim.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d38e4d68871a3dbc",
+  "active": "e21089e566cf5819",
   "lastOpenFiles": [
     "Welcome.md",
-    "Lorem.md",
+    "Configure Lazyvim.md",
     "Untitled",
     "Lorem.canvas"
   ]
