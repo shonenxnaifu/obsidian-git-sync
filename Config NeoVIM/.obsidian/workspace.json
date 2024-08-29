@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Configure Lazyvim.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
