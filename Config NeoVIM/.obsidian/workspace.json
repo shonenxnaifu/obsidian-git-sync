@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configure Lazyvim.md",
+                "file": "Configure Lazyvim 1.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "3f78945680846b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configure NeoVIM.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configure Lazyvim.md",
+                "file": "Configure NeoVIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configure Lazyvim.md",
+                "file": "Configure NeoVIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configure Lazyvim.md"
+                "file": "Configure NeoVIM.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21089e566cf5819",
+  "active": "3f78945680846b4d",
   "lastOpenFiles": [
+    "Configure Lazyvim 1.md",
+    "Configure NeoVIM.md",
     "Welcome.md",
-    "Configure Lazyvim.md",
     "Untitled",
     "Lorem.canvas"
   ]
