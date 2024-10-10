@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "92e1004719f80455",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58d1f387686a280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692b017cc44ae1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3120c3ab83f083a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Counting - Probability Model & Axiom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f629c2b6c175808d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c9c5111e63d3d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62cd2232ae33faed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7329b9cb614dd268",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d71829fd5ec7d76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68758fc473d98ffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8ca18f032e9342a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dec60cb45d7587c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Counting - Probability Model & Axiom.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfefa8b8d837f3c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Counting - Probability Model & Axiom.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7b1b41b2e1f6c29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00d771e8ee1df4c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Counting - Probability Model & Axiom.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3120c3ab83f083a2",
+  "lastOpenFiles": [
+    "Intro Probability.md",
+    "Counting - Probability Model & Axiom.md",
+    "Screenshot 2024-10-10 at 3.02.11 PM.png",
+    "Excalidraw/Intro Probability 2024-10-09 13.45.26.excalidraw.md",
+    "Excalidraw/cropped_Screenshot 2024-10-09 at 2.27.32 PM.md",
+    "Screenshot 2024-10-09 at 3.35.56 PM.png",
+    "Screenshot 2024-10-09 at 3.35.28 PM.png",
+    "Screenshot 2024-10-09 at 3.32.39 PM.png",
+    "Screenshot 2024-10-09 at 3.23.00 PM.png",
+    "Screenshot 2024-10-09 at 3.15.27 PM.png",
+    "Screenshot 2024-10-09 at 3.15.13 PM.png",
+    "Screenshot 2024-10-09 at 3.06.53 PM.png",
+    "Screenshot 2024-10-09 at 2.27.32 PM.png",
+    "Screenshot 2024-10-09 at 3.06.53 PM 1.png",
+    "Excalidraw",
+    "Welcome.md"
+  ]
+}
